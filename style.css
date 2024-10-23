@@ -1,5 +1,16 @@
 /* reset css */
-
+h1{
+  color: red;
+  position: center;
+}
+p{
+  color:blueviolet
+}
+header{
+  text-decoration: aqua;
+  color: aqua;
+  text-decoration-style: none;
+}
 * {
   min-width: 0;
   font: inherit;
@@ -111,6 +122,10 @@ main {
     background: #ff989e;
     color: white;
   }
+
+video{
+  position: center;
+}
 }
 
 .open-cover {
